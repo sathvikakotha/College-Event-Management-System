@@ -1,32 +1,31 @@
-Free Download Source Code "Event_Management_System"
+# 🎓 College Event Management System
 
-FIRST Download
+A web-based College Event Management System that enables easy access to all upcoming and past events in a college. It allows students to stay updated and college administrators to manage event postings efficiently.
 
-1.XAMPP
+## 📌 Project Overview
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+This project provides a centralized platform where students can view all college events, and administrators can create, edit, or delete events. The goal is to reduce communication gaps and streamline the event discovery process within the college.
 
-3"Event_Management_System"
+## 👨‍💻 Role
 
-4. Download the zip file/ download winrar
+- Developed a responsive and user-friendly website to list all upcoming and past college events.
+- Created a simple admin dashboard for adding/updating/removing events.
+- Ensured smooth user experience with real-time data updates using PHP and MySQL.
 
-5. Extract the file and copy "Event_Management_System" folder
+## 🚀 Features
 
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
+- 📅 Display of upcoming and past events with event details.
+- 🔒 Admin login panel to manage events securely.
+- ✍️ Event creation and update functionality.
+- 🗑 Delete outdated or canceled events.
+- 📱 Responsive design for mobile and desktop.
+- 🧭 Navigation and categorization by event type or department (optional).
 
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
+## 🛠 Technologies Used
 
-8. Create a database with name event_db
-
-6. Import event_db.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/Event_Management_System
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP
+- **Database:** MySQL
 
 
-**LOGIN DETAILS** 
-Admin
-user: admin
-pass: admin123
 
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
